@@ -36,7 +36,7 @@ public class MainController {
     @FXML private Label statusDot;
     @FXML private Label scanTimeLabel;
 
-    // ---- Send panel ----
+
     @FXML private StackPane dropZone;
     @FXML private HBox selectedFileBox;
     @FXML private Label selectedFileNameLabel;
